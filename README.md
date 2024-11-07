@@ -4,8 +4,7 @@ Let's run Rust code on Streamlit in this demo app!
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arbitrum-stylus-comparision.streamlit.app
-/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arbitrum-stylus-comparision.streamlit.app/)
 
 Here's a formatted README.md for your project:
 

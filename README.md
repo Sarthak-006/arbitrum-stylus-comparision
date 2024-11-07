@@ -6,7 +6,8 @@ Let's run Rust code on Streamlit in this demo app!
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arbitrum-stylus-comparision.streamlit.app/)
 
-Here's a formatted README.md for your project:
+
+you can click on this link to access the live app (https://arbitrum-stylus-comparision.streamlit.app/)
 
 # 🦀 Rust vs Stylus: Interactive Smart Contract Comparison
 
